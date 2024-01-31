@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My3app</string>
+    <string name="txt_gold">Gold:</string>
+    <string name="tool">Tool</string>
+    <string name="tool2">Tool x2</string>
+    <string name="tool3">Tool x5</string>
+    <string name="tool4">Tool x10</string>
+    <string name="tool5">Tool x50</string>
+    <string name="back_game">BACK TO GAME</string>
+    <string name="shop">THE SHOP</string>
+    <string name="select">SELECT TOOL:</string>
+    <string name="price">100$</string>
+    <string name="price2">980$</string>
+    <string name="price3">7600$:</string>
+    <string name="price4">33000$:</string>
+    <string name="price5">78000$:</string>
+    <string name="back_shop">BACK TO SHOP:</string>
+    <string name="buy_gold">BUY GOLD + 5000$</string>
+    <string name="Successful">Successful purchase</string>
+    <string name="completed">Completed!</string>
+
+
+</resources>
